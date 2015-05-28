@@ -1,5 +1,5 @@
 # CS323
-The project for CS323 at WSU. My team choose to make a game.
+The project for CS323 (Software Design) at WSU taught by Bolong Zeng during the Spring 2014 semester. My team choose to make a game.
 
 Team Members: David Fletcher, Jacob St.Hilaire, and myself
 
