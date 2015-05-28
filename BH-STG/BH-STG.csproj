@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5A39428B-4E68-4221-8405-F29A4630040C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BH_STG</RootNamespace>
+    <AssemblyName>BH-STG</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>BH-STG</ProductName>
+    <PublisherName>Team Christian</PublisherName>
+    <SuiteName>BH-STG</SuiteName>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Windows\Debug\</OutputPath>
+    <DefineConstants>TRACE;DEBUG;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Windows\Release\</OutputPath>
+    <DefineConstants>TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>6FD1B3A48AF7FC44981D1DBB19A830174C871182</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>BH-STG_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="BarrageEngine\Audio\Music.cs" />
+    <Compile Include="BarrageEngine\Audio\SoundFX.cs" />
+    <Compile Include="BarrageEngine\Characters\Character.cs" />
+    <Compile Include="BarrageEngine\Characters\Boss.cs" />
+    <Compile Include="BarrageEngine\Characters\Enemy.cs" />
+    <Compile Include="BarrageEngine\Characters\Player.cs" />
+    <Compile Include="BarrageEngine\CollisionDetection\Detection.cs" />
+    <Compile Include="BarrageEngine\Forms\EnhancedTextBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BarrageEngine\Forms\EnhancedTextBox.Designer.cs">
+      <DependentUpon>EnhancedTextBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BarrageEngine\HighScores\OfflineScores.cs" />
+    <Compile Include="BarrageEngine\Input\InputCommon.cs" />
+    <Compile Include="BarrageEngine\Input\InputGamePad.cs" />
+    <Compile Include="BarrageEngine\Input\InputKeyboard.cs" />
+    <Compile Include="BarrageEngine\Input\InputMouse.cs" />
+    <Compile Include="BarrageEngine\Items\Item.cs" />
+    <Compile Include="BarrageEngine\Level\Level.cs" />
+    <Compile Include="BarrageEngine\ParticleSystem\Particle.cs" />
+    <Compile Include="BarrageEngine\ParticleSystem\ParticleSystem.cs" />
+    <Compile Include="BarrageEngine\Replay\Replay.cs" />
+    <Compile Include="BarrageEngine\Screen\Menu.cs" />
+    <Compile Include="BarrageEngine\Screen\Screen.cs" />
+    <Compile Include="Characters\Bosses\Level1Boss.cs" />
+    <Compile Include="Characters\Bosses\Level2Boss.cs" />
+    <Compile Include="Characters\Bosses\Level3Boss.cs" />
+    <Compile Include="Characters\Bosses\Level4Boss.cs" />
+    <Compile Include="Characters\Bosses\Level5Boss.cs" />
+    <Compile Include="Characters\Bosses\Level6Boss.cs" />
+    <Compile Include="Characters\Bosses\BadgerBoss.cs" />
+    <Compile Include="Characters\Bosses\Level7Boss.cs" />
+    <Compile Include="Characters\Enemies\MineEnemy.cs" />
+    <Compile Include="Characters\Enemies\DoubleWayEnemy.cs" />
+    <Compile Include="Characters\Enemies\LaserEnemy.cs" />
+    <Compile Include="Characters\Enemies\RandomDirectionEnemy.cs" />
+    <Compile Include="Characters\Enemies\RandomDirectionSpeedEnemy.cs" />
+    <Compile Include="Characters\Enemies\RandomSpeedEnemy.cs" />
+    <Compile Include="Characters\Enemies\SingleWayEnemy.cs" />
+    <Compile Include="Characters\Enemies\BasicEnemy.cs" />
+    <Compile Include="Characters\Players\JacobCharacter.cs" />
+    <Compile Include="Characters\Players\DavidCharacter.cs" />
+    <Compile Include="Characters\Players\ChristianCharacter.cs" />
+    <Compile Include="Characters\Players\BasicCharacter.cs" />
+    <Compile Include="Characters\Players\DoubleWayCharacter.cs" />
+    <Compile Include="Characters\Players\LaserCharacter.cs" />
+    <Compile Include="Characters\Players\SingleWayCharacter.cs" />
+    <Compile Include="Characters\Players\FakePlayer.cs" />
+    <Compile Include="Items\Badger.cs" />
+    <Compile Include="Items\Bullets.cs" />
+    <Compile Include="Particles\Flames.cs" />
+    <Compile Include="States\Cheats.cs" />
+    <Compile Include="Weapons\MineBullet.cs" />
+    <Compile Include="Weapons\BasicBullet.cs" />
+    <Compile Include="Weapons\DoubleWayBullet.cs" />
+    <Compile Include="Weapons\RandomDirectionSpeedBullet.cs" />
+    <Compile Include="Weapons\RandomSpeedBullet.cs" />
+    <Compile Include="Weapons\RandomDirectionBullet.cs" />
+    <Compile Include="Weapons\SecretPlayerBullet.cs" />
+    <Compile Include="Weapons\SecretEnemyBullet.cs" />
+    <Compile Include="Weapons\BadgerBullet.cs" />
+    <Compile Include="Weapons\SingleWayBullet.cs" />
+    <Compile Include="Weapons\LaserBullet.cs" />
+    <Compile Include="Weapons\FakeBullet.cs" />
+    <Compile Include="Weapons\TestBullet.cs" />
+    <Compile Include="BarrageEngine\Weapons\Weapon.cs" />
+    <Compile Include="Characters\Bosses\TestBoss.cs" />
+    <Compile Include="Characters\Enemies\TestEnemy.cs" />
+    <Compile Include="Characters\Players\TestPlayer.cs" />
+    <Compile Include="Items\Damage.cs" />
+    <Compile Include="Items\Reload.cs" />
+    <Compile Include="Items\Life.cs" />
+    <Compile Include="Items\Bomb.cs" />
+    <Compile Include="Items\Health.cs" />
+    <Compile Include="Levels\TestLevel.cs" />
+    <Compile Include="Main.cs" />
+    <Compile Include="Particles\Explosion.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="States\Help.cs" />
+    <Compile Include="States\Character_Selection.cs" />
+    <Compile Include="States\Game_Main.cs" />
+    <Compile Include="States\Game_Loading.cs" />
+    <Compile Include="States\HighScore_Menu.cs" />
+    <Compile Include="States\Initial_Loading.cs" />
+    <Compile Include="States\Main_Menu.cs" />
+    <Compile Include="States\Options_Menu.cs" />
+    <Compile Include="States\Level_Selection.cs" />
+    <Compile Include="States\Difficulty_Selection.cs" />
+    <Compile Include="States\Pause_Menu.cs" />
+    <Compile Include="States\About.cs" />
+    <Compile Include="States\Victory.cs" />
+    <Compile Include="States\Defeat.cs" />
+    <Compile Include="States\Replay_Menu.cs" />
+    <Compile Include="Weapons\WeaponDatabase.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Ionic.Zip, Version=1.9.1.8, Culture=neutral, PublicKeyToken=edbe51ad942a3f5c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>BarrageEngine\Dependencies\Ionic.Zip.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="MonoGame.Framework">
+      <HintPath>$(MSBuildExtensionsPath)\..\MonoGame\v3.0\Assemblies\Windows\MonoGame.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpDX, Version=2.5.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>BarrageEngine\Dependencies\SharpDX.dll</HintPath>
+    </Reference>
+    <Reference Include="SharpDX.XInput, Version=2.5.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>BarrageEngine\Dependencies\SharpDX.XInput.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="BarrageEngine\Dependencies\Ionic.Zip.dll" />
+    <Content Include="BarrageEngine\Dependencies\Ionic.Zip.pdb" />
+    <Content Include="BarrageEngine\Dependencies\Ionic.Zip.xml" />
+    <Content Include="BarrageEngine\Dependencies\SharpDX.XInput.dll" />
+    <Content Include="Icon.ico" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <EmbeddedResource Include="BarrageEngine\Forms\EnhancedTextBox.resx">
+      <DependentUpon>EnhancedTextBox.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

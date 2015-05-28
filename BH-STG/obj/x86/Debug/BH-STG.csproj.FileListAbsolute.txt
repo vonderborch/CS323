@@ -1,0 +1,98 @@
+C:\Users\Ricky\Dropbox\CptS 323 Project\Rep_Team_Christian\BH-STG\BH-STG\bin\Windows\Debug\BH-STG.exe.manifest
+C:\Users\Ricky\Dropbox\CptS 323 Project\Rep_Team_Christian\BH-STG\BH-STG\bin\Windows\Debug\BH-STG.application
+C:\Users\Ricky\Dropbox\CptS 323 Project\Rep_Team_Christian\BH-STG\BH-STG\bin\Windows\Debug\BH-STG.exe
+C:\Users\Ricky\Dropbox\CptS 323 Project\Rep_Team_Christian\BH-STG\BH-STG\bin\Windows\Debug\BH-STG.pdb
+C:\Users\Ricky\Dropbox\CptS 323 Project\Rep_Team_Christian\BH-STG\BH-STG\bin\Windows\Debug\Ionic.Zip.dll
+C:\Users\Ricky\Dropbox\CptS 323 Project\Rep_Team_Christian\BH-STG\BH-STG\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Ricky\Dropbox\CptS 323 Project\Rep_Team_Christian\BH-STG\BH-STG\bin\Windows\Debug\SharpDX.dll
+C:\Users\Ricky\Dropbox\CptS 323 Project\Rep_Team_Christian\BH-STG\BH-STG\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Ricky\Dropbox\CptS 323 Project\Rep_Team_Christian\BH-STG\BH-STG\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Ricky\Dropbox\CptS 323 Project\Rep_Team_Christian\BH-STG\BH-STG\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Ricky\Dropbox\CptS 323 Project\Rep_Team_Christian\BH-STG\BH-STG\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Ricky\Dropbox\CptS 323 Project\Rep_Team_Christian\BH-STG\BH-STG\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Ricky\Dropbox\CptS 323 Project\Rep_Team_Christian\BH-STG\BH-STG\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Ricky\Dropbox\CptS 323 Project\Rep_Team_Christian\BH-STG\BH-STG\bin\Windows\Debug\Lidgren.Network.dll
+C:\Users\Ricky\Dropbox\CptS 323 Project\Rep_Team_Christian\BH-STG\BH-STG\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Ricky\Dropbox\CptS 323 Project\Rep_Team_Christian\BH-STG\BH-STG\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Ricky\Dropbox\CptS 323 Project\Rep_Team_Christian\BH-STG\BH-STG\bin\Windows\Debug\Ionic.Zip.pdb
+C:\Users\Ricky\Dropbox\CptS 323 Project\Rep_Team_Christian\BH-STG\BH-STG\bin\Windows\Debug\Ionic.Zip.xml
+C:\Users\Ricky\Dropbox\CptS 323 Project\Rep_Team_Christian\BH-STG\BH-STG\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Ricky\Dropbox\CptS 323 Project\Rep_Team_Christian\BH-STG\BH-STG\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Ricky\Dropbox\CptS 323 Project\Rep_Team_Christian\BH-STG\BH-STG\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Ricky\Dropbox\CptS 323 Project\Rep_Team_Christian\BH-STG\BH-STG\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Ricky\Dropbox\CptS 323 Project\Rep_Team_Christian\BH-STG\BH-STG\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Ricky\Dropbox\CptS 323 Project\Rep_Team_Christian\BH-STG\BH-STG\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Ricky\Dropbox\CptS 323 Project\Rep_Team_Christian\BH-STG\BH-STG\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Ricky\Dropbox\CptS 323 Project\Rep_Team_Christian\BH-STG\BH-STG\obj\x86\Debug\BH-STG.csprojResolveAssemblyReference.cache
+C:\Users\Ricky\Dropbox\CptS 323 Project\Rep_Team_Christian\BH-STG\BH-STG\obj\x86\Debug\BH_STG.BarrageEngine.Forms.EnhancedTextBox.resources
+C:\Users\Ricky\Dropbox\CptS 323 Project\Rep_Team_Christian\BH-STG\BH-STG\obj\x86\Debug\BH-STG.csproj.GenerateResource.Cache
+C:\Users\Ricky\Dropbox\CptS 323 Project\Rep_Team_Christian\BH-STG\BH-STG\obj\x86\Debug\BH-STG.exe.manifest
+C:\Users\Ricky\Dropbox\CptS 323 Project\Rep_Team_Christian\BH-STG\BH-STG\obj\x86\Debug\BH-STG.application
+C:\Users\Ricky\Dropbox\CptS 323 Project\Rep_Team_Christian\BH-STG\BH-STG\obj\x86\Debug\BH-STG.exe
+C:\Users\Ricky\Dropbox\CptS 323 Project\Rep_Team_Christian\BH-STG\BH-STG\obj\x86\Debug\BH-STG.pdb
+D:\My Stuff\Dropbox\CS360\rep_team_christian\bh-stg\bh-stg\obj\x86\Debug\BH-STG.exe
+D:\My Stuff\Dropbox\CS360\rep_team_christian\bh-stg\bh-stg\obj\x86\Debug\BH-STG.pdb
+D:\My Stuff\Dropbox\CS360\rep_team_christian\bh-stg\bh-stg\bin\Windows\Debug\BH-STG.exe.manifest
+D:\My Stuff\Dropbox\CS360\rep_team_christian\bh-stg\bh-stg\bin\Windows\Debug\BH-STG.application
+D:\My Stuff\Dropbox\CS360\rep_team_christian\bh-stg\bh-stg\bin\Windows\Debug\BH-STG.exe
+D:\My Stuff\Dropbox\CS360\rep_team_christian\bh-stg\bh-stg\bin\Windows\Debug\BH-STG.pdb
+D:\My Stuff\Dropbox\CS360\rep_team_christian\bh-stg\bh-stg\bin\Windows\Debug\Ionic.Zip.dll
+D:\My Stuff\Dropbox\CS360\rep_team_christian\bh-stg\bh-stg\bin\Windows\Debug\MonoGame.Framework.dll
+D:\My Stuff\Dropbox\CS360\rep_team_christian\bh-stg\bh-stg\bin\Windows\Debug\SharpDX.dll
+D:\My Stuff\Dropbox\CS360\rep_team_christian\bh-stg\bh-stg\bin\Windows\Debug\SharpDX.XInput.dll
+D:\My Stuff\Dropbox\CS360\rep_team_christian\bh-stg\bh-stg\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\My Stuff\Dropbox\CS360\rep_team_christian\bh-stg\bh-stg\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\My Stuff\Dropbox\CS360\rep_team_christian\bh-stg\bh-stg\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\My Stuff\Dropbox\CS360\rep_team_christian\bh-stg\bh-stg\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\My Stuff\Dropbox\CS360\rep_team_christian\bh-stg\bh-stg\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\My Stuff\Dropbox\CS360\rep_team_christian\bh-stg\bh-stg\bin\Windows\Debug\Lidgren.Network.dll
+D:\My Stuff\Dropbox\CS360\rep_team_christian\bh-stg\bh-stg\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\My Stuff\Dropbox\CS360\rep_team_christian\bh-stg\bh-stg\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\My Stuff\Dropbox\CS360\rep_team_christian\bh-stg\bh-stg\bin\Windows\Debug\Ionic.Zip.pdb
+D:\My Stuff\Dropbox\CS360\rep_team_christian\bh-stg\bh-stg\bin\Windows\Debug\Ionic.Zip.xml
+D:\My Stuff\Dropbox\CS360\rep_team_christian\bh-stg\bh-stg\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\My Stuff\Dropbox\CS360\rep_team_christian\bh-stg\bh-stg\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\My Stuff\Dropbox\CS360\rep_team_christian\bh-stg\bh-stg\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\My Stuff\Dropbox\CS360\rep_team_christian\bh-stg\bh-stg\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\My Stuff\Dropbox\CS360\rep_team_christian\bh-stg\bh-stg\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\My Stuff\Dropbox\CS360\rep_team_christian\bh-stg\bh-stg\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\My Stuff\Dropbox\CS360\rep_team_christian\bh-stg\bh-stg\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\My Stuff\Dropbox\CS360\rep_team_christian\bh-stg\bh-stg\obj\x86\Debug\BH-STG.csprojResolveAssemblyReference.cache
+D:\My Stuff\Dropbox\CS360\rep_team_christian\bh-stg\bh-stg\obj\x86\Debug\BH_STG.BarrageEngine.Forms.EnhancedTextBox.resources
+D:\My Stuff\Dropbox\CS360\rep_team_christian\bh-stg\bh-stg\obj\x86\Debug\BH-STG.csproj.GenerateResource.Cache
+D:\My Stuff\Dropbox\CS360\rep_team_christian\bh-stg\bh-stg\obj\x86\Debug\BH-STG.exe.manifest
+D:\My Stuff\Dropbox\CS360\rep_team_christian\bh-stg\bh-stg\obj\x86\Debug\BH-STG.application
+C:\Users\Ricky\SkyDrive\School\Spring 2014\CptS 323\Project\Rep_Team_Christian\BH-STG\BH-STG\obj\x86\Debug\BH-STG.exe
+C:\Users\Ricky\SkyDrive\School\Spring 2014\CptS 323\Project\Rep_Team_Christian\BH-STG\BH-STG\obj\x86\Debug\BH-STG.pdb
+C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\obj\x86\Debug\BH-STG.exe
+C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\obj\x86\Debug\BH-STG.pdb
+C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\obj\x86\Debug\BH-STG.csprojResolveAssemblyReference.cache
+C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\obj\x86\Debug\BH_STG.BarrageEngine.Forms.EnhancedTextBox.resources
+C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\obj\x86\Debug\BH-STG.csproj.GenerateResource.Cache
+C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\BH-STG.exe.manifest
+C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\BH-STG.application
+C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\BH-STG.exe
+C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\BH-STG.pdb
+C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Ionic.Zip.dll
+C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\SharpDX.dll
+C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Ionic.Zip.pdb
+C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Ionic.Zip.xml
+C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\obj\x86\Debug\BH-STG.exe.manifest
+C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\obj\x86\Debug\BH-STG.application

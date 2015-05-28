@@ -1,0 +1,600 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Graphics\GameBackgrounds\3d-illusion-pictures.jpg</Source>
+      <Name>Graphics\GameBackgrounds\3d-illusion-pictures</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Graphics\GameBackgrounds\3d-illusion-pictures.xnb</Output>
+      <Time>2015-05-27T18:22:26-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\GameBackgrounds\illusion-general-optical-ipad-485094.jpg</Source>
+      <Name>Graphics\GameBackgrounds\illusion-general-optical-ipad-485094</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Graphics\GameBackgrounds\illusion-general-optical-ipad-485094.xnb</Output>
+      <Time>2015-05-27T18:23:03.4544526-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\GameBackgrounds\secret.jpg</Source>
+      <Name>Graphics\GameBackgrounds\secret</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Graphics\GameBackgrounds\secret.xnb</Output>
+      <Time>2015-05-27T18:23:08.0796687-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\GameBackgrounds\stars.jpg</Source>
+      <Name>Graphics\GameBackgrounds\stars</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Graphics\GameBackgrounds\stars.xnb</Output>
+      <Time>2015-05-27T18:23:10.7204166-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Other\FadeBase.png</Source>
+      <Name>Graphics\Other\FadeBase</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Graphics\Other\FadeBase.xnb</Output>
+      <Time>2015-05-27T18:23:15.6956445-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Sprites\BasicEnemies\Pirate.png</Source>
+      <Name>Graphics\Sprites\BasicEnemies\Pirate</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Graphics\Sprites\BasicEnemies\Pirate.xnb</Output>
+      <Time>2015-05-27T18:23:23.4019744-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Sprites\Bosses\Pirate.png</Source>
+      <Name>Graphics\Sprites\Bosses\Pirate</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Graphics\Sprites\Bosses\Pirate.xnb</Output>
+      <Time>2015-05-27T18:23:26.1495393-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Sprites\Particles\explosion.png</Source>
+      <Name>Graphics\Sprites\Particles\explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Graphics\Sprites\Particles\explosion.xnb</Output>
+      <Time>2015-05-27T18:23:28.9934204-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Sprites\Players\12614.png</Source>
+      <Name>Graphics\Sprites\Players\12614</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Graphics\Sprites\Players\12614.xnb</Output>
+      <Time>2015-05-27T18:23:29-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Sprites\Players\Raptor.png</Source>
+      <Name>Graphics\Sprites\Players\Raptor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Graphics\Sprites\Players\Raptor.xnb</Output>
+      <Time>2015-05-27T18:23:30.5091165-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Sprites\Weapons\testbullet.png</Source>
+      <Name>Graphics\Sprites\Weapons\testbullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Graphics\Sprites\Weapons\testbullet.xnb</Output>
+      <Time>2015-05-27T18:23:42.1204358-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\GameBackgrounds\backgroundblue2.png</Source>
+      <Name>Graphics\GameBackgrounds\backgroundblue2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Graphics\GameBackgrounds\backgroundblue2.xnb</Output>
+      <Time>2015-05-27T18:22:30.6628942-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\GameBackgrounds\backgroundblue3.png</Source>
+      <Name>Graphics\GameBackgrounds\backgroundblue3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Graphics\GameBackgrounds\backgroundblue3.xnb</Output>
+      <Time>2015-05-27T18:22:37.991362-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\GameBackgrounds\backgroundyellow2.png</Source>
+      <Name>Graphics\GameBackgrounds\backgroundyellow2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Graphics\GameBackgrounds\backgroundyellow2.xnb</Output>
+      <Time>2015-05-27T18:22:52.3914341-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Sprites\BasicEnemies\badguy2.png</Source>
+      <Name>Graphics\Sprites\BasicEnemies\badguy2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Graphics\Sprites\BasicEnemies\badguy2.xnb</Output>
+      <Time>2015-05-27T18:23:16.6808286-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Sprites\BasicEnemies\badguy46.png</Source>
+      <Name>Graphics\Sprites\BasicEnemies\badguy46</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Graphics\Sprites\BasicEnemies\badguy46.xnb</Output>
+      <Time>2015-05-27T18:23:17.2121043-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Sprites\BasicEnemies\badguymini2.png</Source>
+      <Name>Graphics\Sprites\BasicEnemies\badguymini2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Graphics\Sprites\BasicEnemies\badguymini2.xnb</Output>
+      <Time>2015-05-27T18:23:22.7613213-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Sprites\Bosses\badguyintense.png</Source>
+      <Name>Graphics\Sprites\Bosses\badguyintense</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Graphics\Sprites\Bosses\badguyintense.xnb</Output>
+      <Time>2015-05-27T18:23:23.9798976-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Sprites\Bosses\honeybadgerofdoom1.png</Source>
+      <Name>Graphics\Sprites\Bosses\honeybadgerofdoom1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Graphics\Sprites\Bosses\honeybadgerofdoom1.xnb</Output>
+      <Time>2015-05-27T18:23:25.4307545-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Sprites\Items\itembadger.png</Source>
+      <Name>Graphics\Sprites\Items\itembadger</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Graphics\Sprites\Items\itembadger.xnb</Output>
+      <Time>2015-05-27T18:23:26.5870594-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Sprites\Items\itembomb.png</Source>
+      <Name>Graphics\Sprites\Items\itembomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Graphics\Sprites\Items\itembomb.xnb</Output>
+      <Time>2015-05-27T18:23:26.8058201-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Sprites\Items\itemdamage.png</Source>
+      <Name>Graphics\Sprites\Items\itemdamage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Graphics\Sprites\Items\itemdamage.xnb</Output>
+      <Time>2015-05-27T18:23:27.7433619-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Sprites\Items\itemhealth.png</Source>
+      <Name>Graphics\Sprites\Items\itemhealth</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Graphics\Sprites\Items\itemhealth.xnb</Output>
+      <Time>2015-05-27T18:23:28.1652572-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Sprites\Items\itemlife.png</Source>
+      <Name>Graphics\Sprites\Items\itemlife</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Graphics\Sprites\Items\itemlife.xnb</Output>
+      <Time>2015-05-27T18:23:28.3527677-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Sprites\Items\itemreload.png</Source>
+      <Name>Graphics\Sprites\Items\itemreload</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Graphics\Sprites\Items\itemreload.xnb</Output>
+      <Time>2015-05-27T18:23:28.6809066-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Sprites\Particles\explosionicon.png</Source>
+      <Name>Graphics\Sprites\Particles\explosionicon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Graphics\Sprites\Particles\explosionicon.xnb</Output>
+      <Time>2015-05-27T18:23:29.165304-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Sprites\Players\mericaone.png</Source>
+      <Name>Graphics\Sprites\Players\mericaone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Graphics\Sprites\Players\mericaone.xnb</Output>
+      <Time>2015-05-27T18:23:30.2122278-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Sprites\Weapons\bullet1.png</Source>
+      <Name>Graphics\Sprites\Weapons\bullet1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Graphics\Sprites\Weapons\bullet1.xnb</Output>
+      <Time>2015-05-27T18:23:31.2122742-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Sprites\Weapons\bullet2.png</Source>
+      <Name>Graphics\Sprites\Weapons\bullet2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Graphics\Sprites\Weapons\bullet2.xnb</Output>
+      <Time>2015-05-27T18:23:32.8686021-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Sprites\Weapons\bullet3.png</Source>
+      <Name>Graphics\Sprites\Weapons\bullet3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Graphics\Sprites\Weapons\bullet3.xnb</Output>
+      <Time>2015-05-27T18:23:33.478005-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Sprites\Weapons\bullet4.png</Source>
+      <Name>Graphics\Sprites\Weapons\bullet4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Graphics\Sprites\Weapons\bullet4.xnb</Output>
+      <Time>2015-05-27T18:23:33.7436431-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Sprites\Weapons\bullet5.png</Source>
+      <Name>Graphics\Sprites\Weapons\bullet5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Graphics\Sprites\Weapons\bullet5.xnb</Output>
+      <Time>2015-05-27T18:23:33.946777-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Sprites\Weapons\missile.png</Source>
+      <Name>Graphics\Sprites\Weapons\missile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Graphics\Sprites\Weapons\missile.xnb</Output>
+      <Time>2015-05-27T18:23:40.0876896-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Sprites\Weapons\laser2.png</Source>
+      <Name>Graphics\Sprites\Weapons\laser2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Graphics\Sprites\Weapons\laser2.xnb</Output>
+      <Time>2015-05-27T18:23:36.8531634-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Sprites\Weapons\bullet10.png</Source>
+      <Name>Graphics\Sprites\Weapons\bullet10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Graphics\Sprites\Weapons\bullet10.xnb</Output>
+      <Time>2015-05-27T18:23:31.3997842-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Sprites\Weapons\bullet11.png</Source>
+      <Name>Graphics\Sprites\Weapons\bullet11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Graphics\Sprites\Weapons\bullet11.xnb</Output>
+      <Time>2015-05-27T18:23:31.6029177-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Sprites\Weapons\bullet12.png</Source>
+      <Name>Graphics\Sprites\Weapons\bullet12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Graphics\Sprites\Weapons\bullet12.xnb</Output>
+      <Time>2015-05-27T18:23:31.8060532-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Sprites\Weapons\bullet13.png</Source>
+      <Name>Graphics\Sprites\Weapons\bullet13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Graphics\Sprites\Weapons\bullet13.xnb</Output>
+      <Time>2015-05-27T18:23:32.0560637-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Sprites\Weapons\bullet14.png</Source>
+      <Name>Graphics\Sprites\Weapons\bullet14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Graphics\Sprites\Weapons\bullet14.xnb</Output>
+      <Time>2015-05-27T18:23:32.2748268-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Sprites\Weapons\bullet6.png</Source>
+      <Name>Graphics\Sprites\Weapons\bullet6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Graphics\Sprites\Weapons\bullet6.xnb</Output>
+      <Time>2015-05-27T18:23:34.2436665-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Sprites\Weapons\bullet7.png</Source>
+      <Name>Graphics\Sprites\Weapons\bullet7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Graphics\Sprites\Weapons\bullet7.xnb</Output>
+      <Time>2015-05-27T18:23:34.8061928-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Sprites\Weapons\bullet8.png</Source>
+      <Name>Graphics\Sprites\Weapons\bullet8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Graphics\Sprites\Weapons\bullet8.xnb</Output>
+      <Time>2015-05-27T18:23:35.1187074-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Sprites\Weapons\bullet9.png</Source>
+      <Name>Graphics\Sprites\Weapons\bullet9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Graphics\Sprites\Weapons\bullet9.xnb</Output>
+      <Time>2015-05-27T18:23:35.540602-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Sprites\Weapons\laser3.png</Source>
+      <Name>Graphics\Sprites\Weapons\laser3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Graphics\Sprites\Weapons\laser3.xnb</Output>
+      <Time>2015-05-27T18:23:37.7438299-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Sprites\Weapons\missile2.png</Source>
+      <Name>Graphics\Sprites\Weapons\missile2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Graphics\Sprites\Weapons\missile2.xnb</Output>
+      <Time>2015-05-27T18:23:41.8079207-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Sprites\Items\itembullets.png</Source>
+      <Name>Graphics\Sprites\Items\itembullets</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Graphics\Sprites\Items\itembullets.xnb</Output>
+      <Time>2015-05-27T18:23:27.446474-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\Sprites\Weapons\mine.png</Source>
+      <Name>Graphics\Sprites\Weapons\mine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Graphics\Sprites\Weapons\mine.xnb</Output>
+      <Time>2015-05-27T18:23:38.8220068-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphics\MenuBackgrounds\bsg-stars.png</Source>
+      <Name>Graphics\MenuBackgrounds\bsg-stars</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Graphics\MenuBackgrounds\bsg-stars.xnb</Output>
+      <Time>2015-05-27T18:23:15.5198756-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Music\GoCart.wav</Source>
+      <Name>Audio\Music\GoCart</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Audio\Music\GoCart.xnb</Output>
+      <Time>2015-05-27T18:18:10.8356683-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\SoundFX\BEEP1A.wav</Source>
+      <Name>Audio\SoundFX\BEEP1A</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Audio\SoundFX\BEEP1A.xnb</Output>
+      <Time>2015-05-27T18:22:19.1158391-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\SoundFX\39041__wildweasel__itemup2.wav</Source>
+      <Name>Audio\SoundFX\39041__wildweasel__itemup2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Audio\SoundFX\39041__wildweasel__itemup2.xnb</Output>
+      <Time>2015-05-27T18:22:17.850153-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\SoundFX\55830__sergenious__explosio.wav</Source>
+      <Name>Audio\SoundFX\55830__sergenious__explosio</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Audio\SoundFX\55830__sergenious__explosio.xnb</Output>
+      <Time>2015-05-27T18:22:18-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\SoundFX\bomb2.wav</Source>
+      <Name>Audio\SoundFX\bomb2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Audio\SoundFX\bomb2.xnb</Output>
+      <Time>2015-05-27T18:22:23.8344503-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Music\Home Base Groove.wav</Source>
+      <Name>Audio\Music\Home Base Groove</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Audio\Music\Home Base Groove.xnb</Output>
+      <Time>2015-05-27T18:18:25.5801925-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Music\Show Your Moves.wav</Source>
+      <Name>Audio\Music\Show Your Moves</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Audio\Music\Show Your Moves.xnb</Output>
+      <Time>2015-05-27T18:20:24.8521104-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Music\Spazzmatica Polka.wav</Source>
+      <Name>Audio\Music\Spazzmatica Polka</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Audio\Music\Spazzmatica Polka.xnb</Output>
+      <Time>2015-05-27T18:21:38.1053057-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Music\Theme for Harold var 3.wav</Source>
+      <Name>Audio\Music\Theme for Harold var 3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Audio\Music\Theme for Harold var 3.xnb</Output>
+      <Time>2015-05-27T18:22:15.8969401-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\SoundFX\155235__zangrutz__bomb-small.wav</Source>
+      <Name>Audio\SoundFX\155235__zangrutz__bomb-small</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Audio\SoundFX\155235__zangrutz__bomb-small.xnb</Output>
+      <Time>2015-05-27T18:22:16.8032292-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\General.spritefont</Source>
+      <Name>Fonts\General</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Fonts\General.xnb</Output>
+      <Time>2015-05-27T18:22:24.912626-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Menu Item.spritefont</Source>
+      <Name>Fonts\Menu Item</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Fonts\Menu Item.xnb</Output>
+      <Time>2015-05-27T18:22:25.08451-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Menu Title.spritefont</Source>
+      <Name>Fonts\Menu Title</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\Fonts\Menu Title.xnb</Output>
+      <Time>2015-05-27T18:22:25.3032686-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{3131DC1D-4C23-46A4-B9E5-5E3C51A16AE6}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>PSM</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\Content\ContentContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\Content\Content\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\Content\Content\obj\PSM\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Ricky\OneDrive\School\Spring 2014\CS323\BH-STG\bin\Windows\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\MSBuild\MonoGame\v3.0\MonoGameContentProcessors.dll</Key>
+        <Value>2015-01-16T00:16:34-08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-12-04T13:40:15.5098794-08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

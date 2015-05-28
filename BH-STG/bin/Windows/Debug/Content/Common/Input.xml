@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!-- Valid Keyboard Button Inputs: A-Z, Escape, Enter, Spacebar -->
+<!-- Valid Gamepad Button Inputs: A, B, X, Y, Start, Back, LeftBumperButton, RightBumperButton, DPadUp, DPadDown, DPadLeft, DPadRight -->
+<!-- Valid Mouse Button Inputs: LeftClick, RightClick, MiddleClick, XButton1, XButton2 -->
+<!-- Valid Gamepad Vector2 Inputs: LeftThumbStick, RightThumbStick -->
+<!-- Valid Mouse Vector2 Inputs: XYCoords -->
+<!-- Valid Gamepad Analog Inputs: LeftTrigger, RightTrigger -->
+
+<inputs>
+  <!-- Up: a command to move the character (or menu item) up. Uses Button inputs. -->
+  <Up>
+    <Keyboard>W</Keyboard>
+    <Keyboard>Up</Keyboard>
+    <GamePad>DPadUp</GamePad>
+  </Up>
+  <!-- Down: a command to move the character (or menu item) down. Uses Button inputs. -->
+  <Down>
+    <Keyboard>D</Keyboard>
+    <Keyboard>Down</Keyboard>
+    <GamePad>DPadDown</GamePad>
+  </Down>
+  <!-- Left: a command to move the character (or menu item) left. Uses Button inputs. -->
+  <Left>
+    <Keyboard>S</Keyboard>
+    <Keyboard>Left</Keyboard>
+    <GamePad>DPadLeft</GamePad>
+  </Left>
+  <!-- Right: a command to move the character (or menu item) right. Uses Button inputs. -->
+  <Right>
+    <Keyboard>D</Keyboard>
+    <Keyboard>Right</Keyboard>
+    <GamePad>DPadRight</GamePad>
+  </Right>
+  <!-- UseItem: a command to use an item. Uses Button inputs. -->
+  <UseItem>
+    <Keyboard>Spacebar</Keyboard>
+    <Mouse>LeftClick</Mouse>
+    <GamePad>A</GamePad>
+  </UseItem>
+  <!-- UseSafety: a command to use the safety system. Uses Button inputs. -->
+  <UseSafety>
+    <Keyboard>Enter</Keyboard>
+    <Mouse>RightClick</Mouse>
+    <GamePad>B</GamePad>
+  </UseSafety>
+  <!-- Accept: a command to accept something (or choose something). Uses Button inputs. -->
+  <Accept>
+    <Keyboard>Enter</Keyboard>
+    <Mouse>LeftClick</Mouse>
+    <GamePad>A</GamePad>
+  </Accept>
+  <!-- Cancel: a command to cancel the last thing (or go back). Uses Button inputs. -->
+  <Cancel>
+    <Keyboard>Escape</Keyboard>
+    <Mouse>RightClick</Mouse>
+    <GamePad>B</GamePad>
+  </Cancel>
+  <!-- AnalogMovement: Controls where the player character moves. Uses Vector2 inputs.-->
+  <AnalogMovement>
+    <Mouse>XYCoords</Mouse>
+    <GamePad>LeftThumbStick</GamePad>
+  </AnalogMovement>
+</inputs>

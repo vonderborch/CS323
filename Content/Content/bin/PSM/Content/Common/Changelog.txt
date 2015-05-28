@@ -1,0 +1,99 @@
+﻿4/23/2014
+- Added badger boss and item to game files (not implemented yet).
+- Added tick counter to Game_Main class so we know how long the game's been running so far.
+- Adjusted enemy and boss speed to 1.75f from 3.0f (actual speed: 3.75f vs. 5.0f).
+- Added test mode difficulty with insane amount of lives/health.
+- Setting files version bump.
+- Bug Fixes: Enemy's tracking bullets tracking the nearest enemy rather than the player.
+
+4/18/2014
+- Updated weapons to have a defined name.
+- Updated weapons to have a defined description.
+- Added a Weapon Database class to access stuff for weapons based on weapontype (used on character selection screen only).
+- Player character's score multiplier is now contained in each player class.
+- Updated level, character, and difficulty selection screens to show information on the currently selected item.
+- Removed redundent version info on the about screen.
+- Made changelog able to be closed with the enter key without bringing up a new copy of the form.
+- Bug Fixes: Sound effects volume not loading from settings file.
+
+4/14/2014
+- Made enemies and bosses no longer fire all the time (they'll only fire once they reach y=-50)
+- Moar weapons!
++++++ Basic (goes in straight line from firing character at set speed/direction for a certain # of ticks).
++++++ DoubleWay (targets the player/nearest character and goes towards it at an angle for a certain # of ticks).
++++++ Laser (stays still but lasts for a long time).
++++++ RandomDirection (goes in a random direction from firing character at set speed/direction for a certain # of ticks).
++++++ RandomDirectionSpeed (goes in a random direction from firing character at randomly changing speedn for a certain # of ticks).
++++++ RandomSpeed (goes in straight line from firing character at randomly changing speed for a certain # of ticks).
++++++ SecretEnemy (a secret ;) currently wip).
++++++ SecretPlayer (a secret ;) currently wip).
++++++ SingleWay (targets the player/nearest character and goes towards it directly for a certain # of ticks).
+- Moar enemies! One for each type of weapon (not for the secretplayer weapon though)
+- Moar bosses! One for each type of weapon (not for the secretplayer weapon though)
+- Moar player characters! Basic, Doubleway, laser, and singleway, as well as 3 "secret" characters for us.
+- Moar levels! One for each enemy/boss type, although atm they are all identical (except Level 1 and the secret level).
+- Bosses can flip the screen should they so choose.
+- Ability to have in-game music (currently the same as the main menu music though, just like the victory/defeat screens).
+- Ability to have some in-game sounds (explosions, item pickups, and bomb use. Currently just uses the beep sound.
+- Help menu now displays some more help
+- Player characters can now have different base damages (default = 1).
+- Player characters can now have some bombs at level start (default = 0).
+- High scores menu loads more scores.
+- Both settings file now have a version #, and will reset if the number is different than the currently used one (so new settings can be easily added w/o having to clear old files).
+- Secret character/level are now hidden unless unlocked (either legitimately or using a cheat/setting changing).
+- Test character/level are now hidden unless unlocked (using a cheat/setting changing).
+- Changelog file can now be displayed in-game.
+- Organized all "using" statements and removed unnecessary ones.
+- Added a cheats screen where the user can input cheats to unlock things (Current Cheats: UnlockSecret, DebugMode).
+- Beating a level on Insanity now unlocks the secret level.
+- Choosing different characters now changes how much score one gets (easier characters means less score, etc.)
+- Bug Fixes: Bombs now check all enemies and bosses properly rather than skipping some, rectangle-circle collision detection returning wrong answers sometimes
+
+4/10/2014
+- Moved weapon files to match conventions for characters, items, etc.
+- Updated weapons to allow for different types of weapons more easily.
+- Adjusted game to handle weapon type differentiation by a enum rather than by an (arbitrary and non-guarenteed) string
+- IN PROGRESS: Adding remaining required weapon types
+- Bug Fixes: High scores are now correctly sorted.
+
+4/09/2014
+- Added working health variable to all enemies
+- Added bomb system.
+- Added two new items: player weapon cooldown booster and player weapon damage booster
+- Added help screen to list controls
+- Added new collision method between a rectangle and a circle
+- Bug Fixes: player not firing weapon if firetick > fireattick, rectangle collision always returning true, not cleaning up items when they collide with players
+
+4/01/2014
+- Made enemies shoot bullets!
+- Made enemies move (3 options: towards single point, along path, or towards player)!
+- Setup "defined" variables for base scoring points stuff (i.e. score on killed an enemy, etc.)
+- Added button on victory/defeat screens to save replay and highscore at the same time.
+- Hide the Secret Level from selection unless it is unlocked.
+- Added force reload game settings button on the options menu (but not the pause menu).
+- Made explosions a bit smaller.
+- Bug Fixes: not being able to lose the game, enemies taking damage from their own bullets
+
+3/30/2014
+- Added compression to replay files to help keep down the size (not that they were big, but they could be ;) )
+- Finished and integrated basic collision detection system
+- Integrated Particle System to add explosions when enemies die.
+- Added "final ticks" to games where there are a number of ticks after a user has ended a level through victory or defeat where nothing happens (can be expanded upon to do more stuff later).
+- Bug Fixes: Correct seed not being saved in replay, not being able to pause replays, replays not saving level or character selection
+
+3/28/2014
+- Added and integrated highscore system
+- Started Collision Detection system
+- Integrated replay system into game
+- Made enemies start in random locations
+- Added about screen
+- Updated the options and pause menus to have a variety of options to change
+- Made game create a directory in a users "My Documents" folder
+- Adjusted background color to Cherokee Red and text colors to white (normal) and gold (selected option)
+- Added gamesettings struct to adjust various game settings
+- Updated InputCommon to actually handle switching between different input methods, and added ability to have a default (fallback) input method (currently the keyboard). However, mouse input still needs work.
+- Bug Fixes: Going back on difficulty screen going to main menu instad of level selection, replay system crashing when parsing floats sometimes, level selection not actually changing the selected level
+
+3/27/2014
+- Added replay system
+- Added generic menu class and updated all menus to inherit from it

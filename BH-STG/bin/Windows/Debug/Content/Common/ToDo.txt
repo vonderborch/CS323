@@ -1,0 +1,3 @@
+﻿- Proper music
+- Proper (and more!) sound effects
+- Proper levels

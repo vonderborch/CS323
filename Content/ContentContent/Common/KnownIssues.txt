@@ -1,0 +1,4 @@
+﻿- Pressing cancel on the replay selection screen makes the window pop up once more.
+- Pressing enter on certain dialog boxes (user name input) makes a new box appear rather than the old one disappearing.
+- User can change menu selection if certain dialog boxes (user name input) are open.
+- Enemies seem to disappear a bit earlier than they should.
